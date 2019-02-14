@@ -1,3 +1,21 @@
 [submodule "python_exercism"]
 	path = python_exercism
 	url = https://github.com/tqa236/python_exercism
+[submodule "scala_exercism"]
+	path = scala_exercism
+	url = git@github.com:tqa236/scala_exercism.git
+[submodule "cpp_exercism"]
+	path = cpp_exercism
+	url = git@github.com:tqa236/cpp_exercism.git
+[submodule "java_exercism"]
+	path = java_exercism
+	url = git@github.com:tqa236/java_exercism.git
+[submodule "haskell_exercism"]
+	path = haskell_exercism
+	url = git@github.com:tqa236/haskell_exercism.git
+[submodule "bash_exercism"]
+	path = bash_exercism
+	url = git@github.com:tqa236/bash_exercism.git
+[submodule "r_exercism"]
+	path = r_exercism
+	url = git@github.com:tqa236/r_exercism.git
