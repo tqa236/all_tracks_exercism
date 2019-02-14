@@ -1,0 +1,3 @@
+[submodule "python_exercism"]
+	path = python_exercism
+	url = https://github.com/tqa236/python_exercism
