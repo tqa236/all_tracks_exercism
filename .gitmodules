@@ -19,3 +19,9 @@
 [submodule "r_exercism"]
 	path = r_exercism
 	url = git@github.com:tqa236/r_exercism.git
+[submodule "fsharp_exercism"]
+	path = fsharp_exercism
+	url = git@github.com:tqa236/fsharp_exercism.git
+[submodule "csharp_exercism"]
+	path = csharp_exercism
+	url = git@github.com:tqa236/csharp_exercism.git
