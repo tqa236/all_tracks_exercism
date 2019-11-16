@@ -25,3 +25,6 @@
 [submodule "csharp_exercism"]
 	path = csharp_exercism
 	url = git@github.com:tqa236/csharp_exercism.git
+[submodule "julia_exercism"]
+	path = julia_exercism
+	url = https://github.com/tqa236/julia_exercism/
