@@ -28,3 +28,6 @@
 [submodule "julia_exercism"]
 	path = julia_exercism
 	url = https://github.com/tqa236/julia_exercism/
+[submodule "rust_exercism"]
+	path = rust_exercism
+	url = git@github.com:tqa236/rust_exercism.git
