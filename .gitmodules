@@ -14,7 +14,7 @@
 	path = haskell_exercism
 	url = git@github.com:tqa236/haskell_exercism.git
 [submodule "bash_exercism"]
-	path = bash_exercism
+	path = bash
 	url = git@github.com:tqa236/bash_exercism.git
 [submodule "r_exercism"]
 	path = r_exercism
