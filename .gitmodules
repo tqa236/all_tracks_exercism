@@ -1,33 +1,33 @@
 [submodule "python_exercism"]
-	path = python_exercism
+	path = python
 	url = https://github.com/tqa236/python_exercism
 [submodule "scala_exercism"]
-	path = scala_exercism
+	path = scala
 	url = git@github.com:tqa236/scala_exercism.git
 [submodule "cpp_exercism"]
-	path = cpp_exercism
+	path = cpp
 	url = git@github.com:tqa236/cpp_exercism.git
 [submodule "java_exercism"]
-	path = java_exercism
+	path = java
 	url = git@github.com:tqa236/java_exercism.git
 [submodule "haskell_exercism"]
-	path = haskell_exercism
+	path = haskell
 	url = git@github.com:tqa236/haskell_exercism.git
 [submodule "bash_exercism"]
 	path = bash
 	url = git@github.com:tqa236/bash_exercism.git
 [submodule "r_exercism"]
-	path = r_exercism
+	path = r
 	url = git@github.com:tqa236/r_exercism.git
 [submodule "fsharp_exercism"]
-	path = fsharp_exercism
+	path = fsharp
 	url = git@github.com:tqa236/fsharp_exercism.git
 [submodule "csharp_exercism"]
-	path = csharp_exercism
+	path = csharp
 	url = git@github.com:tqa236/csharp_exercism.git
 [submodule "julia_exercism"]
-	path = julia_exercism
+	path = julia
 	url = https://github.com/tqa236/julia_exercism/
 [submodule "rust_exercism"]
-	path = rust_exercism
+	path = rust
 	url = git@github.com:tqa236/rust_exercism.git
